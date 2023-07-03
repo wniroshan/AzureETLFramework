@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--elt-framework-workspace-dev",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/9f2bad25-61fe-4a9e-872f-348b0ccbbf79/resourceGroups/etl-framework-rg-dev/providers/Microsoft.Synapse/workspaces/elt-framework-workspace-dev",
+		"groupId": "sql",
+		"fqdns": [
+			"elt-framework-workspace-dev.391d1722-9f2e-4513-8824-8f6148cb91ae.sql.azuresynapse.net"
+		]
+	}
+}
