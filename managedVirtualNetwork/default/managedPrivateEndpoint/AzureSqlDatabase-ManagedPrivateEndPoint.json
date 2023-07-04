@@ -1,0 +1,7 @@
+{
+	"name": "AzureSqlDatabase-ManagedPrivateEndPoint",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/9f2bad25-61fe-4a9e-872f-348b0ccbbf79/resourceGroups/etl-framework-rg-dev/providers/Microsoft.Sql/servers/etl-server-dev",
+		"groupId": "sqlServer"
+	}
+}
