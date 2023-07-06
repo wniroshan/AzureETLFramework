@@ -1,0 +1,9 @@
+{
+	"name": "elt-framework-adf-dev",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "15fbe993-b803-4bf2-bffd-750792adc44b",
+		"tenantId": "1b3b56a6-d0b4-4d9f-ad74-b69d3900ab5a"
+	}
+}
